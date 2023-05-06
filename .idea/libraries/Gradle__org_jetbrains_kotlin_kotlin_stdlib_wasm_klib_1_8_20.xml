@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-wasm:klib:1.8.20" type="kotlin.js">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-wasm/1.8.20/2701b3688237de994dddfbce0ad9181ba57ba84e/kotlin-stdlib-wasm-1.8.20.klib!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
