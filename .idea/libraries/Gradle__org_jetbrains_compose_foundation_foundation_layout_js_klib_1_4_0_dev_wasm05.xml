@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.foundation:foundation-layout-js:klib:1.4.0-dev-wasm05" type="kotlin.js">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.foundation/foundation-layout-js/1.4.0-dev-wasm05/9263038c22c18f882e9e9b23b49e3d95894e8da5/foundation-layout-js-1.4.0-dev-wasm05.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.foundation/foundation-layout-js/1.4.0-dev-wasm05/c433e233fd3c18aae61190f8ae706d353c89bf3e/foundation-layout-js-1.4.0-dev-wasm05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

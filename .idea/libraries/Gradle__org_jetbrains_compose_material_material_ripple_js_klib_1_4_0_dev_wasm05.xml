@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.material:material-ripple-js:klib:1.4.0-dev-wasm05" type="kotlin.js">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-ripple-js/1.4.0-dev-wasm05/64bcb9e392d832e66e2cb4179a79d0014d029a3f/material-ripple-js-1.4.0-dev-wasm05.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material/material-ripple-js/1.4.0-dev-wasm05/8803f6cb2acedec4e4d9f369cf81e5f3637c1d5a/material-ripple-js-1.4.0-dev-wasm05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

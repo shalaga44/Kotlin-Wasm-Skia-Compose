@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.material3:material3:jsNativeMain:1.4.0-dev-wasm05" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/org.jetbrains.compose.material3-material3-1.4.0-dev-wasm05-jsNativeMain-0SPjKQ.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.material3/material3/1.4.0-dev-wasm05/eec4328bd98be574c66cd0300bdcbd051f29106d/material3-1.4.0-dev-wasm05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

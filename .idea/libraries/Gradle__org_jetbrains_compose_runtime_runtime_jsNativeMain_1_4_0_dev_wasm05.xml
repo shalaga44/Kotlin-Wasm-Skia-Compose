@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.runtime:runtime:jsNativeMain:1.4.0-dev-wasm05" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/org.jetbrains.compose.runtime-runtime-1.4.0-dev-wasm05-jsNativeMain-mwVWBw.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime/1.4.0-dev-wasm05/9c75461f7365ff7911ffe64f00f6e1cd9a6ae8d3/runtime-1.4.0-dev-wasm05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

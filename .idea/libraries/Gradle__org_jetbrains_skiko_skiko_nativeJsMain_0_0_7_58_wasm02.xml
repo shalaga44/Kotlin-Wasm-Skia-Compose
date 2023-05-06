@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.skiko:skiko:nativeJsMain:0.0.7.58-wasm02" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.gradle/kotlin/kotlinTransformedMetadataLibraries/org.jetbrains.skiko-skiko-0.0.7.58-wasm02-nativeJsMain-gTu44Q.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.skiko/skiko/0.0.7.58-wasm02/343f96650ad4ba48ec45110e788645c43b301646/skiko-0.0.7.58-wasm02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

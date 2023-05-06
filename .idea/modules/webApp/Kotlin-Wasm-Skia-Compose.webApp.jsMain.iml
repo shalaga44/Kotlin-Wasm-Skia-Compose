@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":webApp:jsMain" external.linked.project.path="$MODULE_DIR$/../../../webApp" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Kotlin-Wasm-Skia-Compose" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="false" externalProjectId=":webApp" isHmppProject="true">
+        <dependsOnModuleNames>
+          <dependsOn>:webApp:commonMain</dependsOn>
+          <dependsOn>:webApp:jsWasmMain</dependsOn>
+        </dependsOnModuleNames>
+        <sourceSets>
+          <sourceSet>Kotlin-Wasm-Skia-Compose.webApp.commonMain</sourceSet>
+          <sourceSet>Kotlin-Wasm-Skia-Compose.webApp.jsWasmMain</sourceSet>
+        </sourceSets>
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xir-only -Xir-per-module-output-name=myapp -Xir-produce-klib-dir -Xir-module-name=Kotlin-Wasm-Skia-Compose:webApp -Xir-output-dir=$MODULE_DIR$/../../../webApp/build/classes/kotlin/js/main" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="metaInfo" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+            <flagArg name="sourceMap" arg="true" />
+            <flagArg name="multiPlatform" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="main" arg="call" />
+            <stringArg name="moduleKind" arg="umd" />
+            <stringArg name="sourceMapEmbedSources" arg="never" />
+            <stringArg name="target" arg="v5" />
+            <stringArg name="apiVersion" arg="1.8" />
+            <stringArg name="languageVersion" arg="1.8" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.compiler/compiler/1.4.0-dev-wasm05/daed38962f1930a8bbe907097c13856681c8dd05/compiler-1.4.0-dev-wasm05.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.8.20/51c8efbe177ebcaa89c82d01663c60060a120dd2/kotlin-scripting-jvm-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.8.20/f19996e3a40658541fe2108c483fd3301c4a3416/kotlin-scripting-common-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.8.20/e72fc5e03ec6c064c678a6bd0d955c88d55b0c4a/kotlin-stdlib-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.8.20/5eddaaf234c8c49d03eebeb6a14feb7f90faca71/kotlin-stdlib-common-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.8.20/c850771e723701f9d63dbcf641429c0f29290074/kotlin-script-runtime-1.8.20.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions">
+              <args>plugin:androidx.compose.compiler.plugins.kotlin:generateDecoys=false</args>
+            </arrayArg>
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../webApp/build/classes/kotlin/js/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../webApp/build/compose/skiko-wasm/js">
+      <sourceFolder url="file://$MODULE_DIR$/../../../webApp/build/compose/skiko-wasm/js" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../webApp/src/jsMain">
+      <sourceFolder url="file://$MODULE_DIR$/../../../webApp/src/jsMain/kotlin" type="kotlin-source" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../webApp/src/jsMain/resources" type="kotlin-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Kotlin-Wasm-Skia-Compose.webApp.commonMain" />
+    <orderEntry type="module" module-name="Kotlin-Wasm-Skia-Compose.webApp.jsWasmMain" />
+    <orderEntry type="module" module-name="Kotlin-Wasm-Skia-Compose.shared.jsMain" />
+    <orderEntry type="module" module-name="Kotlin-Wasm-Skia-Compose.shared.commonMain" />
+    <orderEntry type="module" module-name="Kotlin-Wasm-Skia-Compose.shared.jsWasmMain" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material3:material3-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-client-core-js:klib:2.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-ripple-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-layout-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation-core-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-icons-core-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-text-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-util-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko-js:klib:0.0.7.58-wasm02" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime-saveable-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-graphics-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-unit-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-geometry-js:klib:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-js:klib:1.7.0-Beta" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:atomicfu-js:klib:0.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-events-js:klib:2.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-websocket-serialization-js:klib:2.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-http-js:klib:2.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-utils-js:klib:2.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-serialization-js:klib:2.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-io-js:klib:2.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.ktor:ktor-websockets-js:klib:2.2.1" level="project" />
+  </component>
+</module>

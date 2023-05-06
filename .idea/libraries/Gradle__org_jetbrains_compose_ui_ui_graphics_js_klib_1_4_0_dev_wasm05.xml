@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.compose.ui:ui-graphics-js:klib:1.4.0-dev-wasm05" type="kotlin.js">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-graphics-js/1.4.0-dev-wasm05/9adc721999523d46081fc8b993066b2b5fea8ba1/ui-graphics-js-1.4.0-dev-wasm05.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.ui/ui-graphics-js/1.4.0-dev-wasm05/1c76af8a82e1baa0ceef439fc106c5a112985639/ui-graphics-js-1.4.0-dev-wasm05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

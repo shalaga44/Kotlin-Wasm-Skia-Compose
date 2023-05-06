@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":webApp:jsWasmMain" external.linked.project.path="$MODULE_DIR$/../../../webApp" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Kotlin-Wasm-Skia-Compose" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JavaScript " allPlatforms="JS []" useProjectSettings="false" isTestModule="false" externalProjectId=":webApp" isHmppProject="true">
+        <newMppModelJpsModuleKind>SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings />
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="multiPlatform" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="apiVersion" arg="1.7" />
+            <stringArg name="languageVersion" arg="1.8" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.compiler/compiler/1.4.0-dev-wasm05/daed38962f1930a8bbe907097c13856681c8dd05/compiler-1.4.0-dev-wasm05.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.8.20/51c8efbe177ebcaa89c82d01663c60060a120dd2/kotlin-scripting-jvm-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.8.20/f19996e3a40658541fe2108c483fd3301c4a3416/kotlin-scripting-common-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.8.20/e72fc5e03ec6c064c678a6bd0d955c88d55b0c4a/kotlin-stdlib-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.8.20/5eddaaf234c8c49d03eebeb6a14feb7f90faca71/kotlin-stdlib-common-1.8.20.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.8.20/c850771e723701f9d63dbcf641429c0f29290074/kotlin-script-runtime-1.8.20.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../webApp/src/jsWasmMain">
+      <sourceFolder url="file://$MODULE_DIR$/../../../webApp/src/jsWasmMain/kotlin" type="kotlin-source" />
+    </content>
+    <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Kotlin-Wasm-Skia-Compose.shared.commonMain" />
+    <orderEntry type="module" module-name="Kotlin-Wasm-Skia-Compose.shared.jsWasmMain" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material:jsNativeMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.components:components-resources:skikoMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation:jsNativeMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation:skikoMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui:jsNativeMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui:skikoMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime:jsNativeMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-ripple:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation:jsNativeMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-layout:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.foundation:foundation-layout:jsNativeMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation-core:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.animation:animation-core:jsNativeMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.material:material-icons-core:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-text:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-text:jsNativeMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-text:skikoMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko:commonMain:0.0.7.58-wasm02" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko:jsWasmMain:0.0.7.58-wasm02" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.skiko:skiko:nativeJsMain:0.0.7.58-wasm02" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.runtime:runtime-saveable:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-graphics:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-graphics:jsNativeMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-graphics:skikoMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-unit:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-unit:jsNativeMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.compose.ui:ui-geometry:commonMain:1.4.0-dev-wasm05" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:commonMain:1.7.0-Beta-wasm0" level="project" />
+  </component>
+</module>
