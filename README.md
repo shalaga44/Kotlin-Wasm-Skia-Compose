@@ -6,6 +6,7 @@ To know more about Kotlin wasm, please visit https://kotl.in/wasm.
 # The App:
 
 It's a simple web version of compose landing preview animation built with Compose Multiplatform.
+
 ![](%20screenshots%2Flanding-preview-animation.gif)
 
 ## Build and run
