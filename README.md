@@ -1,6 +1,6 @@
 # Kotlin/Wasm/Skia/Compose Example
 
-This repository contains an example demonstrating how to use [Kotlin/Wasm](kotl.in/wasm) with Jet.
+This repository contains an example demonstrating how to use [Kotlin/Wasm](kotl.in/wasm) with Jetpack Compose.
 To know more about Kotlin wasm, please visit https://kotl.in/wasm.
 
 # The App:
